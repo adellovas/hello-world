@@ -1,2 +1,4 @@
 # hello-world
-Infos, ideas, resources, amenities
+
+Hello Everyone,
+Adele here, I'm a coding newbie:)
